@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ⎔**⎯ 2003** ✶\
-⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Stále nepochopitelný vznik mé existence na tomto světě_\
+⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Stále nepochopitelná geneze mé existence na tomto světě_\
 ⏐\
 ⎔**⎯ 2012**\
 ⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Poznávám vodiče, baterie, žárovky, spínače_\
