@@ -54,4 +54,4 @@
 ⏐\
 🛩
 
-... mé letadlo stále letí dále, doufám, že společně procestujeme nádherné krajiny života a smyslu věcí, které nám dávají důvod žít.
+... mé letadlo stále letí dále, doufám, že společně procestujeme nádherné krajiny života a smyslu věcí, které nám dávají důvod našeho žití, zde...
