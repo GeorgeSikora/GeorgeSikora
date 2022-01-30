@@ -35,8 +35,8 @@
 ⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_První objevy vývoje webů (HTML, CSS)_\
 ⏐\
 ⎔**⎯ 2020**\
-⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Projekt Automatický kurník, realizace, výroba_\
-⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Mnoho opravených elektrospotřebičů a elektroniky_\
+⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Projekt Automatický kurník, první návrhy vlastních plošných spojů_\
+⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Univerzální digitální termostat_\
 ⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Propracované hry v JavaScriptu, vlastní engine_\
 ⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Vývoj webových aplikací a her_\
 ⏐\
@@ -45,6 +45,7 @@
 ⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Založení společnosti [Sajkora.cz](https://www.sajkora.cz)_\
 ⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Multiplayer hra v JavaScript enginu Phaser.js_\
 ⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Umělá inteligence hrací piškvorky_\
+⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Plošné spoje i s osazením součástek a komponent_\
 ⏐\
 ⎔**⎯ 2022**\
 ⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Založení společnosti Eulerin s.r.o. s [Šimonem Sz.](https://github.com/SimonSzotkowski)_\
