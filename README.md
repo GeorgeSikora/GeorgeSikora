@@ -36,17 +36,21 @@
 ⎔**⎯ 2020**\
 ⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Projekt Automatický kurník, realizace, výroba_\
 ⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Mnoho opravených elektrospotřebičů a elektroniky_\
+⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Propracované hry v JavaScriptu, vlastní engine_\
+⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Vývoj webových aplikací a her_\
 ⏐\
 ⎔**⎯ 2021**\
+⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Práve u LanCraft.cz, fullstack-dev .NET C#_\
 ⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Založení společnosti Sajkora.cz_\
-⏐\
-⏐\
+⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Multiplayer hra v JavaScript enginu Phaser.js_\
+⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Umělá inteligence hrací piškvorky_\
 ⏐\
 ⎔**⎯ 2022**\
+⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Založení společnosti Eulerin s.r.o. s Šimonem Sz._\
+⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Kompletní návrh plošného spoje s osazením el. součástek_\
+⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Rozvoj bezdrátových IOT zařízení a modulů pro energetiku a průmysl_\
 ⏐\
-⏐\
-⏐\
-⏐\
+🛩
 
 <!--
 **GeorgeSikora/GeorgeSikora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
