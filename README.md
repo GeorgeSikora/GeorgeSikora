@@ -8,7 +8,7 @@
 ⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Rozebírání elektronických hraček a přístrojů_\
 ⏐\
 ⎔**⎯ 2015**\
-⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_První zájmy elektrotechniky_\
+⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_První zájmy v oblasti elektrotechniky_\
 ⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Lego vynálezy, automaty, stroje, převodovky_\
 ⏐\
 ⎔**⎯ 2016**\
