@@ -1,4 +1,4 @@
-### Ahoj světe. Hello world.
+### 👤 Ahoj světe. Hello world. 👋
 
 ⎔**⎯ 2003** ✶\
 ⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Stále nepochopitelná geneze mé existence na tomto světě_\
@@ -41,29 +41,14 @@
 ⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Vývoj webových aplikací a her_\
 ⏐\
 ⎔**⎯ 2021**\
-⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Práve u LanCraft.cz, fullstack-dev .NET C#_\
-⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Založení společnosti Sajkora.cz_\
+⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Práve u [LanCraft.cz](https://lancraft.cz), fullstack-dev .NET C#_\
+⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Založení společnosti [Sajkora.cz](https://www.sajkora.cz)_\
 ⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Multiplayer hra v JavaScript enginu Phaser.js_\
 ⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Umělá inteligence hrací piškvorky_\
 ⏐\
 ⎔**⎯ 2022**\
-⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Založení společnosti Eulerin s.r.o. s Šimonem Sz._\
+⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Založení společnosti Eulerin s.r.o. s [Šimonem Sz.](https://github.com/SimonSzotkowski)_\
 ⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Kompletní návrh plošného spoje s osazením el. součástek_\
 ⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Rozvoj bezdrátových IOT zařízení a modulů pro energetiku a průmysl_\
 ⏐\
 🛩
-
-<!--
-**GeorgeSikora/GeorgeSikora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
