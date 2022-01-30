@@ -53,3 +53,6 @@
 ⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Rozvoj bezdrátových IOT zařízení a modulů pro energetiku a průmysl_\
 ⏐\
 🛩
+
+... letadlo stále letí dále, doufám, že společně procestujeme nádherné krajiny života a smyslu věci objevovat
+Sikora 2022
