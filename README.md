@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ahoj.
 
 ⎔**⎯ 2003** ✶\
 ⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Stále nepochopitelná geneze mé existence na tomto světě_\
