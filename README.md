@@ -5,6 +5,7 @@
 ⏐\
 ⎔**⎯ 2012**\
 ⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Poznávám vodiče, baterie, žárovky, spínače_\
+⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Rozebírání elektronických hraček a přístrojů_\
 ⏐\
 ⎔**⎯ 2015**\
 ⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_První zájmy elektrotechniky_\
@@ -12,7 +13,7 @@
 ⏐\
 ⎔**⎯ 2016**\
 ⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Kroužek Arduina_\
-⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Opravuju XP počítače_\
+⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Opravuju a skládám počítače_\
 ⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Programování v jazyce Java_\
 ⏐\
 ⎔**⎯ 2017**\
