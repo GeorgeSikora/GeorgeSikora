@@ -55,4 +55,4 @@
 🛩
 
 ... letadlo stále letí dále, doufám, že společně procestujeme nádherné krajiny života a smyslu věci objevovat
-Sikora 2022
+- Sikora 2022
