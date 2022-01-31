@@ -54,5 +54,3 @@
 ⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Rozvoj bezdrátových IOT zařízení a modulů pro energetiku a průmysl_\
 ⏐\
 🛩
-
-... mé letadlo stále letí dále, doufám, že společně procestujeme nádherné krajiny života a smyslu věcí, které nám dávají důvod našeho žití.
