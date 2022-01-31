@@ -42,7 +42,7 @@
 ⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Umělá inteligence hrací piškvorky_\
 ⏐\
 ⎔**⎯ 2021**\
-⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Práve u [LanCraft.cz](https://lancraft.cz), fullstack-dev .NET C#_\
+⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Práce u [LanCraft.cz](https://lancraft.cz), fullstack-dev .NET C#_\
 ⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Založení společnosti [Sajkora.cz](https://www.sajkora.cz)_\
 ⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Multiplayer hra v JavaScript enginu Phaser.js_\
 ⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Návrh a instalace fotovoltaiky na tábor_\
