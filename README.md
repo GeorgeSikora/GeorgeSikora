@@ -1,8 +1,5 @@
 ### Ahoj světe. Hello world. 👋
 
-⎔**⎯ 2003** ✶\
-⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Stále nepochopitelná geneze mé existence na tomto světě_\
-⏐\
 ⎔**⎯ 2012**\
 ⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Poznávám vodiče, baterie, žárovky, spínače_\
 ⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Rozebírání elektronických hraček a přístrojů_\
