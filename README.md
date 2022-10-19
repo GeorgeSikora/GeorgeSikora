@@ -29,7 +29,7 @@
 ⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Vybudování vlastní laboratoře v garáži_\
 ⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Naučení se přemodelovávat z reálných součástek_\
 ⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Mnoho opravených elektrospotřebičů a elektroniky_\
-⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_První objevy vývoje webů (HTML, CSS)_\
+⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Pokročilý vývoj webů (HTML, CSS)_\
 ⏐\
 ⎔**⎯ 2020**\
 ⏐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Projekt Automatický kurník, první návrhy vlastních plošných spojů_\
